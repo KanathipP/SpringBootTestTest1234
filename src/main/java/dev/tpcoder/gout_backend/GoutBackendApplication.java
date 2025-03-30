@@ -8,8 +8,8 @@ public class GoutBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GoutBackendApplication.class, args);
+		System.out.println("hehe");
 	}
-
 	
 
 }
